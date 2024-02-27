@@ -1,0 +1,14 @@
+# sofiar_retail-user 11 RPES31.Q4U-47-35-12 24aaf7 release-keys
+- manufacturer: motorola
+- platform: trinket
+- codename: sofiar
+- flavor: sofiar_retail-user
+- release: 11
+- id: RPES31.Q4U-47-35-12
+- incremental: 24aaf7
+- tags: release-keys
+- fingerprint: motorola/sofiar_retail/sofiar:11/RPES31.Q4U-47-35-12/24aaf7:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: sofiar_retail-user-11-RPES31.Q4U-47-35-12-24aaf7-release-keys
+- repo: motorola_sofiar_dump
